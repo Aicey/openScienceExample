@@ -1,0 +1,6 @@
+{
+  "name": "Openscienceexample",
+  "tagline": "This is a skeleton for a demo of GitHub",
+  "body": "# openScienceExample\r\n\r\nThis is a skeleton for a demo of GitHub\r\n\r\nTo install the package:\r\n\r\n     devtools::install_github(repo = 'richarddmorey/openScienceExample', subdir = 'openScienceExample',  build_vignettes = TRUE)\r\n\r\nMake sure you install the `devtools` package first.\r\n\r\nBefore you do anything, please be aware that this is a fork done by Aicey, who is an idiot.\r\nA total idiot.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
