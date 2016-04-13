@@ -8,3 +8,4 @@ To install the package:
 
 Make sure you install the `devtools` package first.
 
+Before you do anything, please be aware that this is a fork done by Aicey, who is an idiot.
